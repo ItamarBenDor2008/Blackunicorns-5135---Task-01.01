@@ -2,7 +2,7 @@
 
 ## The task
 
-Make a program that uses three variables a, b, c that are all int. 
+To make a program that uses three variables a, b, c that are all int. 
 The program does the root formula on the numbers and prints the two possible answers if there are any
 And if it is not possible to do the root formula, the program will print that it is not possible
 
