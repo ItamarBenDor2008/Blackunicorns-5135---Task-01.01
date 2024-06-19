@@ -22,7 +22,6 @@ And if it is not possible to do the root formula, the program will print that it
 
     ```sh
     cd RootsFormula_Task_0101
-    cd Main
     cd src
     ```
 3. Run the program
