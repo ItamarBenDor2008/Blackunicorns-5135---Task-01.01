@@ -21,7 +21,7 @@ And if it is not possible to do the root formula, the program will print that it
 2. Get into the folder
 
     ```sh
-    cd Blackunicorns #5135 - Task 01.01
+    cd RootsFormula_Task_0101
     cd Main
     cd src
     ```
